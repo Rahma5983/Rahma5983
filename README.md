@@ -20,14 +20,20 @@
 
 ---
 
+---
+
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahma5983&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats" />
-  
-  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rahma5983&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Rahma's GitHub Stats" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahma5983&theme=dark" alt="Streak Stats" />
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahma5983&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahma5983&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </div>
 
 ---
