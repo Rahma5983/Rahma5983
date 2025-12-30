@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Frontend web projects, responsive websites, and academic projects using HTML, CSS, JavaScript & GitHub<br>
+🔭 I’m currently working on<br>Frontend web projects, responsive websites, and academic projects using HTML, CSS, JavaScript & GitHub<br><br>
 👯 I’m looking to collaborate on<br>Beginner-friendly open-source projects, frontend websites, and college-level web apps<br>
 🤝 I’m looking for help with<br>Improving JavaScript logic, Git/GitHub best practices, and real-world project structure<br>
 🌱 I’m currently learning<br>Advanced JavaScript, React basics, and UI/UX design principles<br>
