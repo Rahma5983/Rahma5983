@@ -30,16 +30,23 @@
 
 ---
 
+---
+
 ### 📊 My GitHub Journey
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahma5983&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rahma's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahma5983&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahma5983&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahma5983&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahma5983&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahma5983&theme=tokyonight" alt="Streak Stats" />
+</p>
+
+---
 
 ---
 
