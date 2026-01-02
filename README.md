@@ -31,6 +31,11 @@ Informational website for college & hostel
 **Tech:** HTML, CSS, JavaScript 
 🔗 https://github.com/rahma5983/My-CollegeandHostel-LTSU-Website
 
+## 🏆 Experience
+- 👩‍🏫 Mentor at **GSSoC 2025**
+- 🌱 Open-source contributor
+- 💻 Built multiple frontend academic projects
+
 ## 🏅 GitHub Achievements
 <p align="center">
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90"/>
