@@ -56,5 +56,8 @@ Informational website for college & hostel
   alt="Top Contributed Repos" 
 />
 
+## 🤝 Let’s Connect
+I’m open to internships, collaborations, and frontend projects.  
+Feel free to reach out!
 ----
 [![](https://visitcount.itsvg.in/api?id=Rahma5983&icon=0&color=0)](https://visitcount.itsvg.in)
