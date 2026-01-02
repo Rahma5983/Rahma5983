@@ -28,13 +28,8 @@ Responsive website showcasing Jaipur
 
 ### 🏫 College & Hostel Website
 Informational website for college & hostel  
-**Tech:** HTML, CSS  
+**Tech:** HTML, CSS, JavaScript 
 🔗 https://github.com/rahma5983/My-CollegeandHostel-LTSU-Website
-
-### 🍔 Foodie (if active)
-Food-related frontend project  
-**Tech:** HTML, CSS, JS  
-🔗 https://github.com/rahma5983/Foodie
 
 ## 🏅 GitHub Achievements
 <p align="center">
