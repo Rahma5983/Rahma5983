@@ -27,15 +27,15 @@ Informational website for college & hostel
 **Tech:** HTML, CSS, JavaScript 
 🔗 https://github.com/rahma5983/My-CollegeandHostel-LTSU-Website
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rahma5983&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Rahma5983&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahma5983&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ## 🏆 Experience
 - 👩‍🏫 Mentor at **GSSoC 2025**
 - 🌱 Open-source contributor
 - 💻 Built multiple frontend academic projects
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Rahma5983&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Rahma5983&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahma5983&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏅 GitHub Achievements
 <p align="center">
