@@ -16,11 +16,9 @@
 
 ## 📊 GitHub Stats
 
-![Rahma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahma5983&show_icons=true&theme=dark&hide_border=false&cache_seconds=1800)
+<img src="https://github-readme-stats.vercel.app/api?username=Rahma5983&show_icons=true&theme=dark&cache_seconds=1800" alt="GitHub Stats" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rahma5983&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahma5983&layout=compact&theme=dark&hide_border=false)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahma5983&layout=compact&theme=dark" alt="Top Languages" />
 
 ## 🏅 GitHub Achievements
 <p align="center">
