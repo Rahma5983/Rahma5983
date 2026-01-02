@@ -16,9 +16,9 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rahma5983&show_icons=true&theme=dark&cache_seconds=1800" alt="GitHub Stats" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahma5983&show_icons=true&theme=dark&format=png)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahma5983&layout=compact&theme=dark" alt="Top Languages" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahma5983&layout=compact&theme=dark&format=png)
 
 ## 🏅 GitHub Achievements
 <p align="center">
