@@ -2,7 +2,7 @@
 ## 👋 Hi, I’m Rahma Naqui
 
 🎓 Second-year Computer Science student  
-💻 Frontend Developer focused on building clean, responsive web interfaces.
+💻 Frontend Developer focused on building clean, responsive web interfaces.<br><br>
 🔭 I’m currently working on<br>Frontend web projects, responsive websites, and academic projects using HTML, CSS, JavaScript & GitHub<br><br>
 👯 I’m looking to collaborate on<br>Beginner-friendly open-source projects, frontend websites, and college-level web apps<br><br>
 🤝 I’m looking for help with<br>Improving JavaScript logic, Git/GitHub best practices, and real-world project structure<br><br>
