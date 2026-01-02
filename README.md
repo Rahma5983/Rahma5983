@@ -26,8 +26,12 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rahma5983&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-# 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rahma5983&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🔝 Top Contributed Repositories
+
+<img 
+  src="https://github-contributor-stats.vercel.app/api?username=rahma5983&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true" 
+  alt="Top Contributed Repos" 
+/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Rahma5983&icon=0&color=0)](https://visitcount.itsvg.in)
