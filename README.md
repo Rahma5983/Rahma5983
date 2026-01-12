@@ -46,17 +46,14 @@ I am a passionate **Second-year Computer Science student** and **Frontend Develo
 
 ---
 
-### 📊 My GitHub Journey
-
+## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rahma5983&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahma5983&theme=dark&hide_border=true&layout=compact" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rahma5983&theme=dark&show_icons=true&hide_border=true" alt="Rahma's Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahma5983&theme=dark&layout=compact&hide_border=true" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahma5983&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rahma5983&theme=radical&no-frame=false&no-bg=true&margin-w=4" width="90%" />
-</div>
-
 ---
 
 ### 🏆 Experience & Achievements
