@@ -1,65 +1,83 @@
-# 💫 About Me:
-## 👋 Hi, I’m Rahma Naqui
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Rahma+Naqui;Frontend+Developer;CS+Student+%40+LTSU;Open+Source+Enthusiast" alt="Typing SVG" />
+</div>
 
-🎓 Second-year Computer Science student.<br><br>
-💻 Frontend Developer focused on building clean, responsive web interfaces.<br><br>
-🔭 I’m currently working on<br>Frontend web projects, responsive websites, and academic projects using HTML, CSS, JavaScript & GitHub<br><br>
-👯 I’m looking to collaborate on<br>Beginner-friendly open-source projects, frontend websites, and college-level web apps<br><br>
-🤝 I’m looking for help with<br>Improving JavaScript logic, Git/GitHub best practices, and real-world project structure<br><br>
-🌱 I’m currently learning<br>Advanced JavaScript, React basics, and UI/UX design principles<br><br>
-💬 Ask me about<br>HTML, CSS, basic JavaScript, GitHub, and building college projects<br><br>
-⚡ Fun fact<br>I enjoy turning simple ideas into clean, working websites 🚀
+# 👋 About Me
 
+I am a passionate **Second-year Computer Science student** and **Frontend Developer** dedicated to crafting clean, responsive, and user-centric web interfaces. Currently bridging the gap between academic theory and real-world implementation.
 
-## 🌐 Socials: 
+- 🔭 **Working on:** Creative frontend projects and UI/UX enhancements.
+- 🌱 **Learning:** React.js, Advanced JavaScript (ES6+), and Framer Motion.
+- 👯 **Collaborations:** Open to beginner-friendly Open Source and College-level Web Apps.
+- 💬 **Ask me about:** HTML/CSS, Vanilla JS, and Git workflows.
+- ⚡ **Fun Fact:** I believe a good CSS transition can fix any mood! 🚀
 
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/rahmakhan3) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/rahma02686) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rahmakhan2669) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahma-naqui ) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rahmakhan2022) 
-[![StackOverflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32123579/rahma-khan?tab=profile) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RahmaKhan141696) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Rahma-Khan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahmakhan2022@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+### 🛠 Tech Stack
 
-## 🚀 Featured Projects
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat&logo=three.js&logoColor=white) |
+| **Backend/DB** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
+| **Design/Tools** | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) |
 
-### 🌆 Jaipur Unveiled
-Responsive website showcasing Jaipur  
-**Tech:** HTML, CSS, JavaScript  
-🔗 https://github.com/rahma5983/Jaipur-Unveiled-MyFavouriteCity
+---
 
-### 🏫 College & Hostel Website
-Informational website for college & hostel  
-**Tech:** HTML, CSS, JavaScript 
-🔗 https://github.com/rahma5983/My-CollegeandHostel-LTSU-Website
+### 🚀 Featured Projects
 
-## 🏆 Experience
-- 👩‍🏫 Mentor at **GSSoC 2025**
-- 🌱 Open-source contributor
-- 💻 Built multiple frontend academic projects
+<table>
+  <tr>
+    <td width="50%">
+      <h4>🌆 Jaipur Unveiled</h4>
+      <p>A vibrant, responsive cultural showcase of my favorite city.</p>
+      <p><b>Tech:</b> HTML, CSS, JS</p>
+      <a href="https://github.com/rahma5983/Jaipur-Unveiled-MyFavouriteCity">📂 View Project</a>
+    </td>
+    <td width="50%">
+      <h4>🏫 College & Hostel Portal</h4>
+      <p>Informational web app designed for LTSU students and faculty.</p>
+      <p><b>Tech:</b> HTML, CSS, JS</p>
+      <a href="https://github.com/rahma5983/My-CollegeandHostel-LTSU-Website">📂 View Project</a>
+    </td>
+  </tr>
+</table>
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rahma5983&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Rahma5983&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahma5983&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
-## 🏅 GitHub Achievements
-<p align="center">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90"/>
-</p>
+### 📊 My GitHub Journey
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rahma5983&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rahma5983&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahma5983&theme=dark&hide_border=true&layout=compact" height="170px" />
+</div>
 
-## 🔝 Top Contributed Repositories
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rahma5983&theme=radical&no-frame=false&no-bg=true&margin-w=4" width="90%" />
+</div>
 
-<img 
-  src="https://github-contributor-stats.vercel.app/api?username=rahma5983&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true" 
-  alt="Top Contributed Repos" 
-/>
+---
 
-## 🤝 Let’s Connect
-I’m open to internships, collaborations, and frontend projects.  
-Feel free to reach out!
-----
-[![](https://visitcount.itsvg.in/api?id=Rahma5983&icon=0&color=0)](https://visitcount.itsvg.in)
+### 🏆 Experience & Achievements
+- 👩‍🏫 **Mentor** at **GSSoC 2025** - Helping beginners navigate open source.
+- 🌟 **Pull Shark** - Awarded by GitHub for merged PRs.
+- 🌱 **Contributor** - Actively participating in community-led frontend projects.
+
+---
+
+### 🤝 Let's Connect!
+
+<div align="left">
+<a href="https://linkedin.com/in/rahma-naqui" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://x.com/RahmaKhan141696" target="blank"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" /></a>
+<a href="https://behance.net/rahmakhan3" target="blank"><img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white" alt="Behance" /></a>
+<a href="mailto:rahmakhan2022@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://discord.com/users/rahma02686"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" /></a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Rahma5983&icon=5&color=12" alt="Visitor Count" />
+</div>
