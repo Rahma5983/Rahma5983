@@ -78,6 +78,4 @@ I am a passionate **Second-year Computer Science student** and **Frontend Develo
 
 <br />
 
-<div align="center">
   ![Visitors](https://api.visitorbadge.io/api/visitors?path=Rahma5983&label=Profile%20Views&countColor=%23263238&style=flat)
-</div>
