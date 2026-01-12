@@ -79,5 +79,5 @@ I am a passionate **Second-year Computer Science student** and **Frontend Develo
 <br />
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Rahma5983&icon=5&color=12" alt="Visitor Count" />
+  ![Visitors](https://api.visitorbadge.io/api/visitors?path=Rahma5983&label=Profile%20Views&countColor=%23263238&style=flat)
 </div>
