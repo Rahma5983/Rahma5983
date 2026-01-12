@@ -46,13 +46,22 @@ I am a passionate **Second-year Computer Science student** and **Frontend Develo
 
 ---
 
-### 📊 My GitHub Journey
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rahma5983&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Rahma's GitHub Stats" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahma5983&theme=dark&layout=compact&hide_border=true" alt="Top Languages" height="170px" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahma5983&theme=github-compact&hide_border=true" width="100%" />
+  
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahma5983&theme=dark&hide_border=true" alt="GitHub Streak" />
+
+  <img src="https://github-v-stats.vercel.app/api?username=Rahma5983&theme=dark" alt="Stats" />
+</div>
+
+## 📈 Profile Status
+<div align="center">
+  <img src="https://count.getloli.com/get/@Rahma5983?theme=rule_34" alt="Visitor Count" />
+  <br/>
+  <img src="https://img.shields.io/github/followers/Rahma5983?label=Followers&style=for-the-badge&color=212121" />
+  <img src="https://img.shields.io/github/stars/Rahma5983?label=Total%20Stars&style=for-the-badge&color=212121" />
 </div>
 
 ### 📈 Profile Activity
