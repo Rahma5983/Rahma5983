@@ -41,7 +41,7 @@
       <h4>🏫 College & Hostel Portal</h4>
       <p>Informational web app designed for LTSU students and faculty.</p>
       <p><b>Tech:</b> HTML, CSS, JS</p>
-      <a href="https://github.com/rahma5983/My-CollegeandHostel-LTSU-Website">📂 View Project</a>
+      <a href="https://github.com/Rahma5983/My-CollegeandHostel-LTSU-Website">📂 View Project</a>
     </td>
   </tr>
 </table>
