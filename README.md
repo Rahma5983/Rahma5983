@@ -2,15 +2,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Rahma+Naqui;Frontend+Developer;CS+Student+%40+LTSU;Open+Source+Enthusiast" alt="Typing SVG" />
 </div>
 
-# 👋 About Me
+# 💫 About Me:
 
-I am a passionate **Second-year Computer Science student** and **Frontend Developer** dedicated to crafting clean, responsive, and user-centric web interfaces. Currently bridging the gap between academic theory and real-world implementation.
+🎓 Second-year Computer Science student.<br><br>
+💻 Frontend Developer focused on building clean, responsive web interfaces.<br><br>
+🔭 I’m currently working on<br>Frontend web projects, responsive websites, and academic projects using HTML, CSS, JavaScript & GitHub<br><br>
+👯 I’m looking to collaborate on<br>Beginner-friendly open-source projects, frontend websites, and college-level web apps<br><br>
+🤝 I’m looking for help with<br>Improving JavaScript logic, Git/GitHub best practices, and real-world project structure<br><br>
+🌱 I’m currently learning<br>Advanced JavaScript, React basics, and UI/UX design principles<br><br>
+💬 Ask me about<br>HTML, CSS, basic JavaScript, GitHub, and building college projects<br><br>
+⚡ Fun fact<br>I enjoy turning simple ideas into clean, working websites 🚀
 
-- 🔭 **Working on:** Creative frontend projects and UI/UX enhancements.
-- 🌱 **Learning:** React.js, Advanced JavaScript (ES6+), and Framer Motion.
-- 👯 **Collaborations:** Open to beginner-friendly Open Source and College-level Web Apps.
-- 💬 **Ask me about:** HTML/CSS, Vanilla JS, and Git workflows.
-- ⚡ **Fun Fact:** I believe a good CSS transition can fix any mood! 🚀
 
 ---
 
