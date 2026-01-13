@@ -35,7 +35,7 @@
       <h4>🌆 Jaipur Unveiled</h4>
       <p>A vibrant, responsive cultural showcase of my favorite city.</p>
       <p><b>Tech:</b> HTML, CSS, JS</p>
-      <a href="https://github.com/Rahma5983/Jaipur-Unveiled-MyFavouriteCity">📂 View Project</a>
+      <a href="https://github.com/Rahma5983/Jaipur-Unveiled-MyFavourateCity">📂 View Project</a>
     </td>
     <td width="50%">
       <h4>🏫 College & Hostel Portal</h4>
