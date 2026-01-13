@@ -34,13 +34,13 @@
     <td width="50%">
       <h4>🌆 Jaipur Unveiled</h4>
       <p>A vibrant, responsive cultural showcase of my favorite city.</p>
-      <p><b>Tech:</b> HTML, CSS, JS</p>
+      <p><b>Tech:</b> HTML, CSS, JS, Bootstrap,APIs</p>
       <a href="https://github.com/Rahma5983/Jaipur-Unveiled-MyFavourateCity">📂 View Project</a>
     </td>
     <td width="50%">
       <h4>🏫 College & Hostel Portal</h4>
       <p>Informational web app designed for LTSU students and faculty.</p>
-      <p><b>Tech:</b> HTML, CSS, JS</p>
+      <p><b>Tech:</b> HTML, CSS, JS, Bootstrap</p>
       <a href="https://github.com/Rahma5983/My-CollegeandHostel-LTSU-Website">📂 View Project</a>
     </td>
   </tr>
