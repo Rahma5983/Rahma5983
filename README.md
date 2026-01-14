@@ -47,27 +47,6 @@
 
 ---
 
-### 📈 Activity & Stats
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rahma5983&label=PROFILE+VIEWS&color=ff69b4&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Rahma5983?label=Followers&style=for-the-badge&color=8a2be2" alt="Followers" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rahma5983&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahma5983&theme=dracula" alt="GitHub Streak" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahma5983&layout=compact&theme=dracula&hide=html,css" alt="Top Languages" width="60%" />
-</div>
-
----
 
 
 ---
