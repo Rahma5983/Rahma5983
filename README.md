@@ -47,8 +47,6 @@
 
 ---
 
----
-
 ### 📈 Activity & Stats
 
 <p align="center">
@@ -61,9 +59,6 @@
 ![Rahma's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Rahma5983&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahma5983&layout=compact&theme=dracula&hide=html,css)
-
----
-
 
 ---
 
