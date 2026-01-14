@@ -51,44 +51,66 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahma5983&theme=github-compact&hide_border=true" width="100%" />
-  
-  <br/>
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Rahma5983&theme=github-compact&hide_border=true"
+    width="100%"
+    alt="GitHub Activity Graph"
+  />
 
-  <img src="https://github-v-stats.vercel.app/api?username=Rahma5983&theme=dark" alt="Stats" />
+  <br/><br/>
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Rahma5983&show_icons=true&theme=dark&hide_border=true"
+    alt="GitHub Stats"
+  />
 </div>
+
+---
 
 ## 📈 Profile Status
+
 <div align="center">
-  <img src="https://count.getloli.com/get/@Rahma5983?theme=rule_34" alt="Visitor Count" />
-  <br/>
-  <img src="https://img.shields.io/github/followers/Rahma5983?label=Followers&style=for-the-badge&color=212121" />
-  <img src="https://img.shields.io/github/stars/Rahma5983?label=Total%20Stars&style=for-the-badge&color=212121" />
+  <img 
+    src="https://komarev.com/ghpvc/?username=Rahma5983&label=PROFILE+VIEWS&color=212121&style=for-the-badge"
+    alt="Profile Views"
+  />
+  <br/><br/>
+  <img 
+    src="https://img.shields.io/github/followers/Rahma5983?label=Followers&style=for-the-badge&color=212121"
+    alt="Followers"
+  />
+  <img 
+    src="https://img.shields.io/github/stars/Rahma5983?label=Total%20Stars&style=for-the-badge&color=212121"
+    alt="Total Stars"
+  />
 </div>
 
-### 📈 Profile Activity
-<div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=Rahma5983&label=PROFILE%20VIEWS&countColor=%23f7df1e&style=flat-square" alt="Visitors" />
-</div>
 ---
 
-### 🏆 Experience & Achievements
-- 👩‍🏫 **Mentor** at **GSSoC 2025** - Helping beginners navigate open source.
-- 🌟 **Pull Shark** - Awarded by GitHub for merged PRs.
-- 🌱 **Contributor** - Actively participating in community-led frontend projects.
+## 🏆 Experience & Achievements
+
+- 👩‍🏫 **Mentor** at **GSSoC 2025** — Helping beginners navigate open source  
+- 🌟 **Pull Shark** — Awarded by GitHub for merged pull requests  
+- 🌱 **Contributor** — Actively contributing to community-led frontend projects  
 
 ---
 
-### 🤝 Let's Connect!
+## 🤝 Let's Connect!
 
 <div align="left">
-<a href="https://linkedin.com/in/rahma-naqui" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://x.com/RahmaKhan141696" target="blank"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" /></a>
-<a href="https://behance.net/rahmakhan3" target="blank"><img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white" alt="Behance" /></a>
-<a href="mailto:rahmakhan2022@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://discord.com/users/rahma02686"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://linkedin.com/in/rahma-naqui" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/RahmaKhan141696" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" />
+  </a>
+  <a href="https://behance.net/rahmakhan3" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white" />
+  </a>
+  <a href="mailto:rahmakhan2022@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/rahma02686" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white" />
+  </a>
 </div>
-
-<br />
-
-  ![Visitors](https://api.visitorbadge.io/api/visitors?path=Rahma5983&label=Profile%20Views&countColor=%23263238&style=flat)
