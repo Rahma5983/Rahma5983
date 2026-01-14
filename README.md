@@ -48,27 +48,14 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 Profile Status
 
 <div align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Rahma5983&theme=github-compact&hide_border=true" 
-    width="100%" 
-    alt="Rahma's GitHub Activity Graph"
-  />
-</div>
-
-<br/>
-
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Rahma5983&show_icons=true&theme=dark&hide_border=true" 
-    alt="Rahma's GitHub Stats" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahma5983&layout=compact&theme=dark&hide_border=true" 
-    alt="Most Used Languages" 
-  />
+  <img src="https://komarev.com/ghpvc/?username=Rahma5983&label=PROFILE+VIEWS&color=ff69b4&style=for-the-badge" alt="Profile Views" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/Rahma5983?label=Followers&style=for-the-badge&color=8a2be2" alt="Followers" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/Rahma5983?label=Total%20Stars&style=for-the-badge&color=00ced1" alt="Total Stars" />
 </div>
 
 ---
