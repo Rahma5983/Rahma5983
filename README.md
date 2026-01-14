@@ -47,19 +47,33 @@
 
 ---
 
-### 📈 Activity & Stats
 
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Rahma5983&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Rahma5983&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahma5983&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏅 GitHub Achievements
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rahma5983&label=PROFILE+VIEWS&color=ff69b4&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Rahma5983?label=Followers&style=for-the-badge&color=8a2be2" alt="Followers" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90"/>
 </p>
 
-![Rahma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahma5983&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Rahma5983&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-![Rahma's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Rahma5983&theme=dracula)
+## 🔝 Top Contributed Repositories
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahma5983&layout=compact&theme=dracula&hide=html,css)
+<img 
+  src="https://github-contributor-stats.vercel.app/api?username=rahma5983&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true" 
+  alt="Top Contributed Repos" 
+/>
 
+## 🤝 Let’s Connect
+I’m open to internships, collaborations, and frontend projects.  
+Feel free to reach out!
+----
+[![](https://visitcount.itsvg.in/api?id=Rahma5983&icon=0&color=0)](https://visitcount.itsvg.in)
 ---
 
 
