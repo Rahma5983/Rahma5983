@@ -47,6 +47,26 @@
 
 ---
 
+### 📈 Activity & Stats
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rahma5983&label=PROFILE+VIEWS&color=ff69b4&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Rahma5983?label=Followers&style=for-the-badge&color=8a2be2" alt="Followers" />
+  
+  <br/><br/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rahma5983&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Rahma's GitHub Stats" />
+  
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rahma5983&theme=dracula" alt="Rahma's Streak" />
+
+  <br/><br/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahma5983&layout=compact&theme=dracula&hide=html,css" alt="Top Languages" />
+</div>
+
+---
+
+
 ### 🏆 Experience & Achievements
 
 * 👩‍🏫 **Mentor** at **GSSoC 2025** — Helping beginners navigate open source  
