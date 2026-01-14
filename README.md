@@ -52,16 +52,22 @@
 
 <div align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Rahma5983&theme=github-compact&hide_border=true"
-    width="100%"
-    alt="GitHub Activity Graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Rahma5983&theme=github-compact&hide_border=true" 
+    width="100%" 
+    alt="Rahma's GitHub Activity Graph"
   />
+</div>
 
-  <br/><br/>
+<br/>
 
+<div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Rahma5983&show_icons=true&theme=dark&hide_border=true"
-    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=Rahma5983&show_icons=true&theme=dark&hide_border=true" 
+    alt="Rahma's GitHub Stats" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahma5983&layout=compact&theme=dark&hide_border=true" 
+    alt="Most Used Languages" 
   />
 </div>
 
@@ -70,47 +76,29 @@
 ## 📈 Profile Status
 
 <div align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=Rahma5983&label=PROFILE+VIEWS&color=212121&style=for-the-badge"
-    alt="Profile Views"
-  />
-  <br/><br/>
-  <img 
-    src="https://img.shields.io/github/followers/Rahma5983?label=Followers&style=for-the-badge&color=212121"
-    alt="Followers"
-  />
-  <img 
-    src="https://img.shields.io/github/stars/Rahma5983?label=Total%20Stars&style=for-the-badge&color=212121"
-    alt="Total Stars"
-  />
+  <img src="https://komarev.com/ghpvc/?username=Rahma5983&label=PROFILE+VIEWS&color=212121&style=for-the-badge" alt="Profile Views" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/Rahma5983?label=Followers&style=for-the-badge&color=212121" alt="Followers" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/Rahma5983?label=Total%20Stars&style=for-the-badge&color=212121" alt="Total Stars" />
 </div>
 
 ---
 
 ## 🏆 Experience & Achievements
 
-- 👩‍🏫 **Mentor** at **GSSoC 2025** — Helping beginners navigate open source  
-- 🌟 **Pull Shark** — Awarded by GitHub for merged pull requests  
-- 🌱 **Contributor** — Actively contributing to community-led frontend projects  
+* 👩‍🏫 **Mentor** at **GSSoC 2025** — Helping beginners navigate open source  
+* 🌟 **Pull Shark** — Awarded by GitHub for merged pull requests  
+* 🌱 **Contributor** — Actively contributing to community-led frontend projects  
 
 ---
 
 ## 🤝 Let's Connect!
 
-<div align="left">
-  <a href="https://linkedin.com/in/rahma-naqui" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/RahmaKhan141696" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" />
-  </a>
-  <a href="https://behance.net/rahmakhan3" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white" />
-  </a>
-  <a href="mailto:rahmakhan2022@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://discord.com/users/rahma02686" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white" />
-  </a>
-</div>
+<p align="left">
+  <a href="https://linkedin.com/in/rahma-naqui" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/RahmaKhan141696" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://behance.net/rahmakhan3" target="_blank"><img src="https://img.shields.io/badge/Behance-1769ff?style=flat-square&logo=behance&logoColor=white" alt="Behance" /></a>
+  <a href="mailto:rahmakhan2022@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://discord.com/users/rahma02686" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
+</p>
